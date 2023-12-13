@@ -1,0 +1,7 @@
+{
+    "name": "jetking_web3.js_practical",
+    "dependencies": {
+        "web3": "^4.3.0"
+    },
+    "type": "module"
+}

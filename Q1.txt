@@ -1,0 +1,6 @@
+web3.js is a collection of javascript libraries which enables you to interact with
+the ethereum blockchain. web3.js impliments easy to use functions which makes it
+easy to work with the etherum blockchain. For example some of the functions are
+web3.eth.getBlock(), web3.eth.sendTransaction(), web3.eth.getAccounts(), etc.
+web3.js also provides utility functions such as converting wei to other unit or other unit
+to wei.

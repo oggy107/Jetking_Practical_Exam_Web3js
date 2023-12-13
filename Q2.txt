@@ -1,0 +1,7 @@
+web3 is considered to be third generation of internet. The major difference
+between web2 and web3 is that web3 is decentralized whereas web2 is is 
+centralized. web3 enables users to own their data and choose what to do
+with it whereas in web2 centralized authorities have full control over
+users data. web3 will help increase security of internet as web3 is
+built on top of blockchian technology. web3 enables peer to peer interactions
+without the need for intermediaries.
